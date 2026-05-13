@@ -1,14 +1,14 @@
 # Desmond Chua
 *Data Analyst · AI Business Analyst · Analytics Engineer · Vancouver, BC*
 
-Building end-to-end analytics solutions that bridge business questions and production data systems. Completing a capstone at Douglas College and open to data and business analyst roles across Canada.
+Hi, I'm Desmond — a Vancouver-based data and business analyst. I build things for the Canadian context. Most recently: `CedarCare`, a BC-focused health platform with AI symptom triage. Currently shipping a Snowflake retail analytics project on the Canadian market, and looking for analyst roles where local fluency matters.
 
 ---
 
 ### Currently
 
 - 🩺 Maintaining `CedarCare`, a BC health platform with AI symptom triage
-- ❄️ Building `PolarMart Canada`, a Snowflake business analyst capstone
+- ❄️ Shipping `PolarMart Canada`, a Snowflake retail analytics project on the Canadian market
 - 🎓 Pursuing Databricks SQL Analyst, Databricks Data Engineer, and Microsoft PL-300 certifications
 - 💼 Open to analyst roles in healthcare, retail, and insurance
 
