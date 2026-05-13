@@ -1,16 +1,36 @@
-## Hi there 👋
+# Desmond Chua
+*Data Analyst · AI Business Analyst · Analytics Engineer · Vancouver, BC*
 
-<!--
-**desmondchua-ai/desmondchua-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building end-to-end analytics solutions that bridge business questions and production data systems. Completing a capstone at Douglas College and open to data and business analyst roles across Canada.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+
+- 🩺 Maintaining `CedarCare`, a BC health platform with AI symptom triage
+- ❄️ Building `PolarMart Canada`, a Snowflake business analyst capstone
+- 🎓 Pursuing Databricks SQL Analyst, Databricks Data Engineer, and Microsoft PL-300 certifications
+- 💼 Open to analyst roles in healthcare, retail, and insurance
+
+### Toolkit
+
+![SQL](https://img.shields.io/badge/SQL-0C447C?style=flat&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0C447C?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-0C447C?style=flat&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-0C447C?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-0C447C?style=flat&logo=microsoft-excel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-0C447C?style=flat&logo=streamlit&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-0C447C?style=flat&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-0C447C?style=flat&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-0C447C?style=flat&logo=dbt&logoColor=white)
+![Airbyte](https://img.shields.io/badge/Airbyte-0C447C?style=flat&logo=airbyte&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-0C447C?style=flat&logo=googlebigquery&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-0C447C?style=flat&logo=openai&logoColor=white)
+
+### Portfolio
+
+🔗 **[desmondchua-ai.github.io](https://desmondchua-ai.github.io)** — full project showcase with live demos
+
+### Connect
+
+[LinkedIn](https://linkedin.com/in/desmondchua2024) · [Email](mailto:dygchua22@gmail.com) · [Tableau Public](https://public.tableau.com/app/profile/desmond.chua1037/vizzes)
