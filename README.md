@@ -10,7 +10,7 @@ Hi, I'm Desmond — a Vancouver-based data and business analyst. I build things 
 - 🩺 Maintaining `CedarCare`, a BC health platform with AI symptom triage
 - ❄️ Shipping `PolarMart Canada`, a Snowflake retail analytics project on the Canadian market
 - 🎓 Pursuing Databricks SQL Analyst, Databricks Data Engineer, and Microsoft PL-300 certifications
-- 💼 Open to analyst roles in healthcare, retail, and insurance
+- 💼 Open to analyst roles in healthcare, public sector, retail, and insurance across BC
 
 ### Toolkit
 
